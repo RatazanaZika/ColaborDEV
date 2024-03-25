@@ -1,0 +1,27 @@
+Para começar a codificar em JavaScript, é importante ter uma compreensão sólida dos seguintes tópicos:
+
+    Sintaxe Básica: Aprenda a estrutura básica de um programa JavaScript, incluindo declaração de variáveis, tipos de dados (strings, números, booleanos, etc.), operadores, estruturas de controle (if, else, switch, etc.) e loops (for, while, do-while).
+
+    Funções: Entenda como definir funções, passar argumentos para funções, retornar valores e escopo de variáveis.
+
+    Objetos e Arrays: Aprenda como criar objetos e arrays em JavaScript, bem como acessar e manipular seus elementos.
+
+    Eventos: Familiarize-se com o conceito de eventos e manipulação de eventos em JavaScript, incluindo como lidar com eventos de usuário como cliques de mouse e pressionamentos de teclas.
+
+    DOM (Document Object Model): Saiba como o DOM representa a estrutura de uma página HTML e como JavaScript pode ser usado para manipular elementos HTML, como adicionar ou remover elementos, alterar estilos e conteúdo, e responder a eventos do usuário.
+
+    Assincronia e Callbacks: Entenda como o JavaScript lida com operações assíncronas usando callbacks e como lidar com problemas comuns relacionados à assincronia, como callback hell.
+
+    Promises e Async/Await: Aprenda sobre promises e como elas são usadas para trabalhar com código assíncrono de forma mais legível e fácil de manter. Além disso, compreenda o uso de async/await para lidar com operações assíncronas de maneira síncrona.
+
+    Manipulação de Strings e Expressões Regulares: Saiba como manipular strings em JavaScript, incluindo concatenação, busca, substituição e formatação de strings. Além disso, entenda o básico de expressões regulares e como usá-las para fazer correspondências em strings.
+
+    Tratamento de Exceções: Aprenda a lidar com erros e exceções em JavaScript usando blocos try-catch e apropriadas técnicas de tratamento de erros.
+
+    Módulos e Importações/Exportações: Compreenda como modularizar seu código em JavaScript usando módulos e como importar e exportar funcionalidades entre módulos.
+
+    Manipulação de Arrays (Array Methods): Conheça os métodos integrados de array em JavaScript, como map, filter, reduce, etc., e saiba como usá-los para manipular e transformar arrays de forma eficiente.
+
+    Manipulação de Eventos do DOM (Event Handling): Aprenda a lidar com eventos de DOM, como clicar em botões, submeter formulários, etc., e a associar funções a esses eventos para executar ações específicas.
+
+Esses são alguns dos tópicos fundamentais para começar a codificar em JavaScript. À medida que você se torna mais confortável com esses conceitos, poderá explorar tópicos mais avançados, como programação orientada a objetos, manipulação de AJAX, APIs de terceiros, entre outros.
